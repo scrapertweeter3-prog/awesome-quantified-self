@@ -30,6 +30,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Measured Me](http://measuredme.com/) - Personal experiment in self-quantification and self-optimization.
 - [Lifestream Blog](http://lifestreamblog.com/) - Social data aggregation, lifelogging, Quantified Self and digital legacy.
 - [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
+- [Hacked Self](https://hackedself.com/) - Evidence-first biohacking and longevity blog: audit-style reviews of popular protocols, supplements, and claims with effect sizes and cost math.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - Quantified Self, lifelogging, journaling, education.
 - [QS on Medium](https://medium.com/@quantifiedself) - Quantified Self posts on Medium.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - Quantified Self articles on Venture Beat.
